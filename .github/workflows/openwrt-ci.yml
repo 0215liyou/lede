@@ -1,4 +1,4 @@
-name: Jarvis-OpenWrt-CI
+name: Jarvis-OpenWrt-CI86/64
 
     on:
       push:
